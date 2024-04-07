@@ -1,6 +1,6 @@
 # Student App API
 
-Live Site [Student-Api](https://student-info-azx4.onrender.com/student)
+Live Site [Student-Api](https://student-info-azx4.onrender.com/docs)
 
 The fully functioning REST API using:
 
