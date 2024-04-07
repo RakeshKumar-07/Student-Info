@@ -10,7 +10,7 @@ The fully functioning REST API using:
 ## Getting started
 
 To start project, run:
-- Place your ATLAS_URI and DB_NAME
+- Place your ATLAS_URI and DB_NAME in main.py
 ```
 pip install -r requirements.txt
 uvicorn main:app --reload
